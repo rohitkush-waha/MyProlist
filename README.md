@@ -2,6 +2,7 @@
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 28" src="https://github.com/user-attachments/assets/e37917d6-d984-4fcd-99aa-5d50fa7a5cfb" />
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 34" src="https://github.com/user-attachments/assets/be495c1a-04c1-4c04-b076-dd13458811ef" />
 
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 34" src="https://github.com/user-attachments/assets/d885cb7a-8aa4-489a-9eb4-e564d42a871d" />
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
