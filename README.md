@@ -1,6 +1,18 @@
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 18" src="https://github.com/user-attachments/assets/6643e016-b0bf-4e41-b840-97dbd44ad2e2" />
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 28" src="https://github.com/user-attachments/assets/e37917d6-d984-4fcd-99aa-5d50fa7a5cfb" />
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-15 at 00 09 34" src="https://github.com/user-attachments/assets/be495c1a-04c1-4c04-b076-dd13458811ef" />
+
+
+
+## 🚀 Features
+
+- ⚡ Built with **React Native 0.82**
+- 🔄 **Redux Toolkit** for predictable state management
+- 🧭 **React Navigation v7** (Native Stack + Bottom Tabs)
+- 💾 **Async Storage** for local data persistence
+- 🌐 **Axios** for API calls
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
